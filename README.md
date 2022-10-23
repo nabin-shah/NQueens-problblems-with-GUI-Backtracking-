@@ -1,4 +1,4 @@
-# NQueens-problblems-with-GUI-Backtracking-
+# NQueens-problems-with-GUI-Backtracking-
 Recursive and Backtracking Algorithm
 #Java  #Swing 
 
